@@ -2,8 +2,8 @@ const mineflayer = require("mineflayer");
 
 const settings = {
     username: "TestMachine",
-    host: "localhost",
-    port: 60427,
+    host: "in1.msdhosting.tech",
+    port: 25628,
 };
 
 const bot = mineflayer.createBot(settings);
